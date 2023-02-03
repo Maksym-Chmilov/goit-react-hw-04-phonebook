@@ -6,6 +6,7 @@ export const AppBox = styled.div`
   justify-content: center;
   align-items: center;
   font-size: 40px;
+  line-height: 60px;
   color: rgb(44, 43, 43);
 `;
 export const SectionTitle = styled.h2`
